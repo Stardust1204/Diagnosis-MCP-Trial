@@ -1,0 +1,4 @@
+{
+  "browser": { "browserName": "chromium", "headless": true },
+  "server": { "port": 8931 }
+}
